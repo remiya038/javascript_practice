@@ -1,2 +1,2 @@
 # javascript_practice
-Created with CodeSandbox
+src/index.js にて javascript の基本構文まとめ
